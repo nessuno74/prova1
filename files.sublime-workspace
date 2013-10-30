@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysq",
+				"mysql_error"
+			],
+			[
+				"ch",
+				"check_num"
+			],
+			[
+				"c",
+				"check_num"
+			],
+			[
+				"q",
+				"qry_check_address1"
+			],
+			[
+				"qr",
+				"qry_rec_address"
+			],
+			[
+				"url",
+				"url_real"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"mail",
+				"mail_link"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"file_",
+				"file_ext"
+			],
+			[
+				"fil",
+				"file_ext"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"err",
+				"err1"
+			],
+			[
+				"res",
+				"res1"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"rea",
+				"readline"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"tri",
+				"trim"
+			],
+			[
+				"au",
+				"authCode"
+			],
+			[
+				"manca",
+				"Manca"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ech",
+				"echo	echo \"…\""
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_row"
+			],
+			[
+				"els",
+				"elseif	elseif …"
+			],
+			[
+				"ta",
+				"tab_mysql"
+			],
+			[
+				"wh",
+				"WHERE"
+			],
+			[
+				"prodo",
+				"prodotti"
+			],
+			[
+				"select",
+				"SELECT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 908,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "class/function.class.php",
+			"settings":
+			{
+				"buffer_size": 998,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "function.php",
+			"settings":
+			{
+				"buffer_size": 1747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "form_up.php",
+			"settings":
+			{
+				"buffer_size": 1616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "invio_link.php",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "controllo.php",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "link.php",
+			"settings":
+			{
+				"buffer_size": 1170,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 123.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/files/aziendale.php",
+		"/var/www/files/pubblico.php",
+		"/var/www/files/personale.php",
+		"/var/www/files/inc/list_pubblico.inc.php",
+		"/var/www/files/inc/list_personale.inc.php",
+		"/var/www/files/inc/list_aziendale.inc.php",
+		"/var/www/files/home.php",
+		"/var/www/files/inc/head.inc.php",
+		"/var/www/files/controllo.php",
+		"/Applications/MAMP/htdocs/files/logout.php",
+		"/Applications/MAMP/htdocs/files/aziendale.php",
+		"/Applications/MAMP/htdocs/files/pubblico.php",
+		"/Applications/MAMP/htdocs/files/personale.php",
+		"/Applications/MAMP/htdocs/files/link.php",
+		"/Applications/MAMP/htdocs/files/invio_link.php",
+		"/Applications/MAMP/htdocs/files/form_up.php",
+		"/Applications/MAMP/htdocs/files/url.php",
+		"/Applications/MAMP/htdocs/admin_site/funzioni_admin.php",
+		"/Applications/MAMP/htdocs/admin_site/funzioni.class.php",
+		"/Applications/MAMP/htdocs/demo/home.php",
+		"/Applications/MAMP/htdocs/demo/function.php",
+		"/Applications/MAMP/htdocs/demo/connetti.php",
+		"/Applications/MAMP/htdocs/dropbox/app-info.json",
+		"/Applications/MAMP/htdocs/dropbox/examples/helper.php",
+		"/Applications/MAMP/htdocs/dropbox/examples/authorize.php",
+		"/Applications/MAMP/htdocs/s3upload/s3_config.php",
+		"/Applications/MAMP/htdocs/dropbox/index.php",
+		"/Applications/MAMP/htdocs/dropbox/examples/account-info.php",
+		"/Applications/MAMP/htdocs/dropbox/examples/web-file-browser.php",
+		"/Applications/MAMP/htdocs/dropbox/composer.json",
+		"/Applications/MAMP/htdocs/dropbox/lib/Dropbox/AppInfo.php",
+		"/Applications/MAMP/htdocs/dropbox/lib/Dropbox/autoload.php",
+		"/Users/nessuno74/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/municchi/municchi.sublime-project",
+		"/Applications/MAMP/htdocs/municchi/admin/function.php",
+		"/Users/nessuno74/Google Drive/licenza_sublime",
+		"/Applications/MAMP/htdocs/municchi/admin/demo/sm.php",
+		"/Applications/MAMP/htdocs/municchi/admin/demo/form_sm.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"json",
+			".json"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 908,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "class/function.class.php",
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "function.php",
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								579,
+								579
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "form_up.php",
+					"settings":
+					{
+						"buffer_size": 1616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "invio_link.php",
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1450,
+								1450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 255.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "controllo.php",
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								564,
+								564
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "link.php",
+					"settings":
+					{
+						"buffer_size": 1170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
